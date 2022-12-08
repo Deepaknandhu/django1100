@@ -1,2 +1,2 @@
 # django1100
-Blogweb
+Blogweb application
